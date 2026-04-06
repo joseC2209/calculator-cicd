@@ -10,7 +10,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Calculator CI/CD - Practice 1</name>
+    <name>Calculator CI/CD</name>
     <description>Sample project to learn CI/CD with GitHub Actions</description>
 
     <properties>

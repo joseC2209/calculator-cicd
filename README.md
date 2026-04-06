@@ -106,7 +106,7 @@ java -jar target/calculator-practice1-1.0.0.jar prime 17
 
 ## Troubleshooting
 
-### Common Issues with Java 22
+### Common Issues
 1. **Mockito warnings**: The warnings about dynamic agent loading are expected and don't affect functionality
 2. **GitHub Actions**: Ensure you use `actions/setup-java@v4` with `distribution: 'temurin'`
 
@@ -125,7 +125,6 @@ java -jar target/calculator-practice1-1.0.0.jar prime 17
 3. **Explore** the code and run the tests
 4. **Create** your first GitHub Actions workflow
 5. **Experiment** with different configurations
-6. **Note** the Java 22 specific considerations
 
 ---
 **Version:** 1.0.0  
