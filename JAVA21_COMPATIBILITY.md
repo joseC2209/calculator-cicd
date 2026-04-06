@@ -1,8 +1,8 @@
-# Java 21 Compatibility Notes - Practice 1
+# Java 21 Compatibility Notes
 
 ## Issues Resolved
 
-## Notes on Java 21 compatibility - Practice 1
+## Notes on Java 21 compatibility
 
 This document summarizes practical compatibility notes and recommendations for using Java 21 in the practice repository. The project in the workspace has been tested to work with Java 21 and the GitHub Actions workflow is configured accordingly.
 
