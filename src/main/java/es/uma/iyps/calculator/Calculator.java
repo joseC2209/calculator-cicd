@@ -39,7 +39,7 @@ public class Calculator {
    * @return the product of a and b
    */
   public double multiply(double a, double b) {
-    return a * b;
+    return a * b
   }
 
   /**
